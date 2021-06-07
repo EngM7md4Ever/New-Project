@@ -3,7 +3,7 @@
 // var name1 = 'ahmed';
 // console.log(name1);
 // document.getElementById('the').innerHTML = age;
-
+console.log('Hello My friend how are you');
 
 // var age = prompt('Please enter Your name');
 // document.getElementById('the').innerHTML = 'Welcome Back, ' + age;
@@ -27,7 +27,7 @@ let fruits = ['banana','apple','tomato','watermelon'];
 // console.log(fruits.pop(), fruits);
 
 
-fruits2 = ['banana2','apple2','tomato2','watermelon2'];
+let fruits2 = ['banana2','apple2','tomato2','watermelon2'];
 
 // let allfruits = fruits.concat(fruits2);
 // console.log(allfruits);
@@ -76,3 +76,4 @@ fruits2 = ['banana2','apple2','tomato2','watermelon2'];
 
 // ]`
 // console.log(JSON.parse(students))
+console.log('Hello My friend');
